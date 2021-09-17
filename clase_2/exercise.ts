@@ -1,4 +1,5 @@
-let variable1 = "123";
+let variable1 : number;
+variable1 = 123;
 let variable2 = false;
 let variable3 = 23.2;
 let variable4 = "true";
