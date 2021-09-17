@@ -23,6 +23,8 @@ let objetos: {
     edad: number;
     nombre: string;
     genero: boolean;
+    otra_variable: {
+        alumnos: string[];
+        boleta: number;
+    }
 }
-
-
